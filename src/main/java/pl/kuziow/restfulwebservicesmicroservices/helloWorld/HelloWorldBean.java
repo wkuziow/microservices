@@ -1,4 +1,4 @@
-package pl.kuziow.restfulwebservicesmicroservices;
+package pl.kuziow.restfulwebservicesmicroservices.helloWorld;
 
 public class HelloWorldBean {
     private String message;
